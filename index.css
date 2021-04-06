@@ -1,0 +1,26 @@
+
+*{
+    box-sizing: border-box;
+}
+
+a:hover {
+    background-color:blue;
+a{
+    background-color: grey;
+}
+
+.section-title {
+    background-color: navajowhite;
+    font-size: 30px;
+    text-align:center;
+    width:50w;
+}
+#more-important {
+    background-color: salmon;
+}
+#lorem-article {
+
+}
+.horizantal{
+    display:inline-block;
+}
